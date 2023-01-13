@@ -2,11 +2,11 @@
     {
         "title": "Test Title",
         "text": "Test text",
-        "note_id": "30753975035"
+        "id": "30753975035"
     },
     {
         "title": "Street Magic",
         "text": "Buy cards",
-        "note_id": "1cd5a444-3c35-4ba0-83f8-ba01300de3ce"
+        "id": "1cd5a444-3c35-4ba0-83f8-ba01300de3ce"
     }
 ]
