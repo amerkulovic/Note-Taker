@@ -13,7 +13,7 @@ This application will help you create notes and save your notes. You can delete 
 
 ## Screenshot
 
-![Note Taker]( "Note Taker")
+![Note Taker](screenshot.png "Note Taker")
 
 ## Link
 
